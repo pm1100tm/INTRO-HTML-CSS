@@ -4,4 +4,5 @@
 
 You can see the result at the bottom link.
 
-https://pm1100tm.github.io/INTRO-HTML-CSS/
+https://pm1100tm.github.io/my-intro-page-html-css/
+
